@@ -17,14 +17,14 @@ import * as VueGoogleMaps from 'vue2-google-maps';
 import VueGmaps from 'vue-gmaps'
 import Axios from 'axios';
 Vue.use(VueGmaps, {
-    key: 'AIzaSyDwLPahiK39Y_Tw5t292M1EELf8yU_Z2_4'
+    key: 'AIzaSyDdodMZpYF4KgGWhbmHNo2CUipxcaz3FLY'
   })
 
 Vue.use(VueGoogleMaps, {
 
 
     load: {
-        key: 'AIzaSyDwLPahiK39Y_Tw5t292M1EELf8yU_Z2_4',
+        key: 'AIzaSyDdodMZpYF4KgGWhbmHNo2CUipxcaz3FLY',
         libraries: 'places',
     }
 })
